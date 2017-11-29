@@ -1,3 +1,4 @@
+// Source: http://www.springminutes.com/2011/09/uuid-and-spring-data-jpa.html
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.MappedSuperclass;
